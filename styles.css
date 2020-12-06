@@ -1,0 +1,86 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: rgba(130, 141, 141, 0.534);
+    background-image: url(Images/Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.front-title{
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    background-color:  rgba(244, 242, 247, 0.61);
+    color: black;
+    margin: auto;
+
+}
+
+.nav-link-wrapper a{
+    color:rgb(20, 19, 19);
+}
+
+.nav-wrapper{
+    padding: 40px;
+    font-size: 20px;
+    margin-right:20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:  rgba(244, 242, 247, 0.61);
+    width: fit-content;
+    height: fit-content;
+    font-size: 30px;
+    margin: auto;
+    ;
+
+    
+}
+main{
+    padding: 3%;
+    background-color: rgba(244, 242, 247, 0.61);
+    margin-top: 3%;
+
+
+    
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:black;
+    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+.about-us{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+
+footer p{
+    font-size: 10px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+}
+ 
+video {
+   align-items: center;
+}
